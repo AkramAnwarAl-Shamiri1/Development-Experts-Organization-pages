@@ -12,7 +12,7 @@ See [Vite Configuration Reference](https://vite.dev/config/).
 
 ## Project Setup
 
-```sh
+sh
 npm install
 ```
 
@@ -24,6 +24,6 @@ npm run dev
 
 ### Compile and Minify for Production
 
-```sh
+sh
 npm run build
 ```
